@@ -58,15 +58,17 @@
 
 ### :zap: Certifications
 
-<p>Secure and Private AI Challenge by Udacity and Facebook
+<p>
+1. Secure and Private AI Challenge by Udacity and Facebook
 
-Pytorch Scholarship Challenge by Udacity and Facebook
+2. Pytorch Scholarship Challenge by Udacity and Facebook
 
-Neural Networks building and Analysis by Deeplearning.ai and Coursera
+3. Neural Networks building and Analysis by Deeplearning.ai and Coursera
 
-Python for Data Science offered by UC San Diego via edX
+4. Python for Data Science offered by UC San Diego via edX
 
-Deep Learning Course by fast.a</p>
+5. Deep Learning Course by fast.ai
+</p>
 
 ### :zap: Github Stats
 
