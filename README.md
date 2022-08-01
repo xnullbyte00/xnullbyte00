@@ -1,6 +1,7 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
   <h1 align="center"><b>Hello there, I'm Ali Raza 👋</b></h1>
+  <p>Machine Learning Engineer and Python backend developer</p>
 </p>
 
 <p>
@@ -54,6 +55,18 @@
 <br>
 <br>
 
+
+### :zap: Certifications
+
+<p>Secure and Private AI Challenge by Udacity and Facebook
+
+Pytorch Scholarship Challenge by Udacity and Facebook
+
+Neural Networks building and Analysis by Deeplearning.ai and Coursera
+
+Python for Data Science offered by UC San Diego via edX
+
+Deep Learning Course by fast.a</p>
 
 ### :zap: Github Stats
 
