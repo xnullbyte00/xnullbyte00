@@ -4,12 +4,7 @@
   <h4 align="center"><b>Machine Learning Engineer and Python backend developer</b></h4>
 </p>
 
-<p>
-  <h4 align="center"><b>Talking is priceless, show me your code.</b></h4>
-</p>
-<p align="center">
-    <img align="center" alt="visitors" src="https://profile-counter.glitch.me/xnullbyt00/count.svg" />
-</p>
+
 <p align="center">
 <br>
 <a href="https://www.linkedin.com/in/ali-raza-a16b80241/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
