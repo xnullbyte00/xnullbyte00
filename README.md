@@ -1,7 +1,7 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
   <h1 align="center"><b>Hello there, I'm Ali Raza 👋</b></h1>
-  <p>Machine Learning Engineer and Python backend developer</p>
+  <p><center>Machine Learning Engineer and Python backend developer</center></p>
 </p>
 
 <p>
